@@ -1,2 +1,4 @@
 # README
-Common Description
+Dependency
+
+keras 1.1.2 library and its backend is theano 0.9.0 
